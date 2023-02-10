@@ -1,0 +1,10 @@
+[2023-02-10T00:25:13.553] [ERROR] [Default] - SyntaxError: invalid JSON, only supports object and array
+    at parse (/Users/gcb/Work/forum-serve/node_modules/co-body/lib/json.js:55:13)
+    at AsyncFunction.module.exports [as json] (/Users/gcb/Work/forum-serve/node_modules/co-body/lib/json.js:41:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /Users/gcb/Work/forum-serve/node_modules/koa-body/src/index.ts:48:28
+[2023-02-10T00:25:14.901] [ERROR] [Default] - SyntaxError: invalid JSON, only supports object and array
+    at parse (/Users/gcb/Work/forum-serve/node_modules/co-body/lib/json.js:55:13)
+    at AsyncFunction.module.exports [as json] (/Users/gcb/Work/forum-serve/node_modules/co-body/lib/json.js:41:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /Users/gcb/Work/forum-serve/node_modules/koa-body/src/index.ts:48:28
